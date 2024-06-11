@@ -1,4 +1,4 @@
-# 📈 Enhancing Financial Decision-Making at Fawry: Predicting Daily Disbursed Amounts with XGBoost, Random Forest, Gradient Boosting
+# 📈 Enhancing Financial Decision-Making: Predicting Daily Disbursed Amounts with XGBoost, Random Forest, Gradient Boosting
 
 ## 🎯 Objective
 
